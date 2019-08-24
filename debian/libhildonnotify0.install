@@ -1,1 +1,1 @@
-usr/lib/libhildonnotify*.so.*
+usr/lib/*/libhildonnotify*.so.*
