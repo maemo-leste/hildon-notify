@@ -1,0 +1,18 @@
+hildon-notify (0.0.2-1-recomp1) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix -recomp1 added to package revision
+
+ -- Kojo Aapo <aapo.kojo@nokia.com>  Wed, 18 Feb 2009 10:50:23 +0200
+
+hildon-notify (0.0.2-1) unstable; urgency=low
+
+  * Added method to define notification sound hint. 
+
+ -- Lucas Rocha <lucas.rocha@nokia.com>  Fri,  8 Jun 2007 13:42:57 +0300
+
+hildon-notify (0.0.1-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Lucas Rocha <lucas.rocha@nokia.com>  Mon,  7 May 2007 17:46:35 +0300
