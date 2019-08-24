@@ -1,3 +1,9 @@
+hildon-notify (0.0.2-2) unstable; urgency=low
+
+  * Initial Maemo Leste version
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sat, 24 Aug 2019 12:02:44 +0200
+
 hildon-notify (0.0.2-1-recomp1) unstable; urgency=low
 
   * This entry has been added by BIFH queue processor

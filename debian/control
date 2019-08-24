@@ -1,6 +1,6 @@
 Source: hildon-notify
 Priority: optional
-Maintainer: Lucas Rocha <lucas.rocha@nokia.com>
+Maintainer: Merlijn Wajer <merlijn@wizzup.org>
 Build-Depends: debhelper (>= 4.0.0), libnotify-dev, pkg-config, libgtk2.0-dev, libcairo2-dev
 Standards-Version: 3.6.1
 
