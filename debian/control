@@ -7,7 +7,7 @@ Standards-Version: 3.6.1
 
 Package: libhildonnotify-dev
 Section: devel
-Architecture: all 
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libhildonnotify0 (= ${source:Version}), libnotify-dev
 Description: libhildonnotify development files
   Development headers and static libraries for libhildonnotify 
